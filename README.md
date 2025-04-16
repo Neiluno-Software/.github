@@ -1,5 +1,4 @@
-# .github
-Services of Neiluno Software
+# Services of Neiluno Software
 
 🚀 Software: C/C++, RUST, C#, Java, PHP, Python, Go, Rust, Ruby, Big Data Engineering, Data Mining, Data Analysis, Reverse Engineering
 
